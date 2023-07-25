@@ -1,0 +1,13 @@
+.sidebar
+{
+  transition: all ease-in-out 1s;
+  float:left;
+  height: 40rem !important;;
+}
+
+.sidebar:valid
+{
+  transition: all ease-out 1s;
+ background-color:red;
+ left:-10rem;
+}

@@ -3,4 +3,4 @@ import { App } from './app.jsx'
 import { Rep } from "./pages/Reports.jsx"
 import './index.css'
 
-render(<Rep />, document.getElementById('app'))
+render(<Rep/>, document.getElementById('app'))

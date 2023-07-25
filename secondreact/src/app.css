@@ -11,3 +11,12 @@
  background-color:red;
  left:-10rem;
 }
+
+#first:hover
+{
+ 
+  border-bottom: 1px solid black;
+  transition: all ease-in .5s;
+  border-radius:0px;
+  
+}
